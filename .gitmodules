@@ -1,0 +1,36 @@
+[submodule "site/pack/plugins/start/auto-pairs"]
+	path = site/pack/plugins/start/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs
+[submodule "site/pack/plugins/start/dracula"]
+	path = site/pack/plugins/start/dracula
+	url = https://github.com/dracula/vim
+[submodule "site/pack/plugins/start/lightline.vim"]
+	path = site/pack/plugins/start/lightline.vim
+	url = https://github.com/itchyny/lightline.vim
+[submodule "site/pack/plugins/start/lightline-bufferline"]
+	path = site/pack/plugins/start/lightline-bufferline
+	url = https://github.com/mengelbrecht/lightline-bufferline
+[submodule "site/pack/plugins/start/lsp_extensions.nvim"]
+	path = site/pack/plugins/start/lsp_extensions.nvim
+	url = https://github.com/nvim-lua/lsp_extensions.nvim
+[submodule "site/pack/plugins/start/nvim-compe"]
+	path = site/pack/plugins/start/nvim-compe
+	url = https://github.com/hrsh7th/nvim-compe
+[submodule "site/pack/plugins/start/nvim-dap"]
+	path = site/pack/plugins/start/nvim-dap
+	url = https://github.com/mfussenegger/nvim-dap
+[submodule "site/pack/plugins/start/nvim-lspconfig"]
+	path = site/pack/plugins/start/nvim-lspconfig
+	url = https://github.com/neovim/nvim-lspconfig
+[submodule "site/pack/plugins/start/rust.vim"]
+	path = site/pack/plugins/start/rust.vim
+	url = https://github.com/rust-lang/rust.vim
+[submodule "site/pack/plugins/start/tagbar"]
+	path = site/pack/plugins/start/tagbar
+	url = https://github.com/preservim/tagbar
+[submodule "site/pack/plugins/start/vim-fugitive"]
+	path = site/pack/plugins/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "site/pack/plugins/start/vim-godot"]
+	path = site/pack/plugins/start/vim-godot
+	url = https://github.com/habamax/vim-godot
