@@ -37,3 +37,6 @@
 [submodule "site/pack/plugins/start/vim-crates"]
 	path = site/pack/plugins/start/vim-crates
 	url = https://github.com/mhinz/vim-crates
+[submodule "site/pack/plugins/start/vim-toml"]
+	path = site/pack/plugins/start/vim-toml
+	url = https://github.com/cespare/vim-toml
