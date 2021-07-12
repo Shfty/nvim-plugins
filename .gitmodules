@@ -34,3 +34,6 @@
 [submodule "site/pack/plugins/start/vim-godot"]
 	path = site/pack/plugins/start/vim-godot
 	url = https://github.com/habamax/vim-godot
+[submodule "site/pack/plugins/start/vim-crates"]
+	path = site/pack/plugins/start/vim-crates
+	url = https://github.com/mhinz/vim-crates
