@@ -34,9 +34,21 @@
 [submodule "site/pack/plugins/start/vim-godot"]
 	path = site/pack/plugins/start/vim-godot
 	url = https://github.com/habamax/vim-godot
+[submodule "site/pack/plugins/start/vim-glsl"]
+	path = site/pack/plugins/start/vim-glsl
+	url = https://github.com/tikhomirov/vim-glsl
 [submodule "site/pack/plugins/start/vim-crates"]
 	path = site/pack/plugins/start/vim-crates
 	url = https://github.com/mhinz/vim-crates
 [submodule "site/pack/plugins/start/vim-toml"]
 	path = site/pack/plugins/start/vim-toml
 	url = https://github.com/cespare/vim-toml
+[submodule ".\\site\\pack\\plugins\\start\\vim-glsl"]
+	path = .\\site\\pack\\plugins\\start\\vim-glsl
+	url = https://github.com/tikhomirov/vim-glsl
+[submodule "wgsl.vim"]
+	path = wgsl.vim
+	url = https://github.com/DingDean/wgsl.vim
+[submodule ".\\site\\pack\\plugins\\start\\wgsl.vim"]
+	path = .\\site\\pack\\plugins\\start\\wgsl.vim
+	url = https://github.com/DingDean/wgsl.vim
