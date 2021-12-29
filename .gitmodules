@@ -46,9 +46,6 @@
 [submodule ".\\site\\pack\\plugins\\start\\vim-glsl"]
 	path = .\\site\\pack\\plugins\\start\\vim-glsl
 	url = https://github.com/tikhomirov/vim-glsl
-[submodule "wgsl.vim"]
-	path = wgsl.vim
-	url = https://github.com/DingDean/wgsl.vim
 [submodule ".\\site\\pack\\plugins\\start\\wgsl.vim"]
 	path = .\\site\\pack\\plugins\\start\\wgsl.vim
 	url = https://github.com/DingDean/wgsl.vim
